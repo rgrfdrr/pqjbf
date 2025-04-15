@@ -4,14 +4,13 @@ draft = false
 title = ''
 +++
 
-# Pablo: 
-{{< lead >}} lecturer, lawyer {{< /lead >}}
+# Paulus: 
+{{< lead >}} lawyer, professor {{< /lead >}}
 
-// → Created: [aijsh](#)
+### Created: [aijsh](#)
 
-// → You can read my [articles](art)
+### You can read my [articles](art)
 
-// → Likes: [music](#), [music](#), [music](#)
+### Likes: [music](#), [art](#), [sports](#)
 
-        → Contact
-
+#### [Contact](#)
