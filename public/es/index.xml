@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo</title>
+    <link>http://localhost:1313/es/</link>
+    <description>Recent content on Pablo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© Pablo | [cookies](#)</copyright>
+    <lastBuildDate>Mon, 14 Apr 2025 13:26:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapas de ruido, urbanismo y transparencia</title>
+      <link>http://localhost:1313/es/art/ruido/</link>
+      <pubDate>Mon, 14 Apr 2025 14:01:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/es/art/ruido/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
