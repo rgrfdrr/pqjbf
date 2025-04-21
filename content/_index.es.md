@@ -4,7 +4,7 @@ draft = false
 title = ''
 +++
 
-# Pablo: 
+# Paulus: 
 {{< lead >}} profesor, abogado {{< /lead >}}
 
 // → Creador de: [aijsh](#)
@@ -15,3 +15,9 @@ title = ''
 
         → Contacto
 
+{{< alert "scale-balanced" >}}
+Donaciones [aquí](#)
+{{< /alert >}}
+
+Seguimos escribiendo cosas y más cosas con el fin de probar las notas al pie [^1]
+[^1]: Nota de prueba

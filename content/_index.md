@@ -1,13 +1,17 @@
 +++
 date = '2025-04-14T13:26:15+02:00'
 draft = false
-title = ''
+title = 'Pablo'
 +++
 
-# Pablo: 
-{{< lead >}} lecturer, lawyer {{< /lead >}}
+ 
+### lecturer, [lawyer](#)
 
-// → Created: [aijsh](#)
+``PhD``
+
+{{< lead >}} Created: [aijsh](#) {{< /lead >}}
+
+{{< lead >}} Created: [aijsh](#) {{< /lead >}}
 
 // → You can read my [articles](art)
 

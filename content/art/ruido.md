@@ -15,3 +15,5 @@ La obligación de elaborar mapas de ruido por parte de las Administraciones Púb
 Sin embargo, y a pesar de lo expuesto, la Administración Pública dista mucho de ser plenamente transparente en este aspecto. La dificultad para localizar dichos mapas de ruido en las páginas web de los distintos municipios y la escasa publicidad que se da a los mapas estratégicos de ruido con anterioridad a su aprobación —a pesar de ser el trámite de información pública un requisito contemplado en la legislación— hacen que el ciudadano en la mayor parte de los casos desconozca la existencia de dicha herramienta y que, en caso de conocerla, se vea abocado a hacer frente a numerosas dificultades que le impiden obtener la información que busca o que directamente provocan su desistimiento.
 
 En dicho sentido, resulta esencial continuar avanzando hacia un mayor grado de transparencia en la difusión de los mapas de ruido, con el fin de garantizar el fácil acceso de los ciudadanos a información precisa, actualizada y relevante sobre la verdadera situación acústica de su entorno.
+
+{{< button href="/../art" >}} Back {{< /button >}}
