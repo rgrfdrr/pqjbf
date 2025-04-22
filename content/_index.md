@@ -5,6 +5,6 @@ title = 'Paulus'
 +++
 
  
-{{< lead >}} I'm Paulus {{< /lead >}}
+{{< lead >}} I'm Paulus, a [lawyer](#) and [PhD student](#) who is also teaching in academia. {{< /lead >}}
 
-I'm a [lawyer](#) who is also working in academia as a [PhD student](#) and [lecturer](#).
+{{< lead >}} I love [Bach](#) {{< /lead >}}
