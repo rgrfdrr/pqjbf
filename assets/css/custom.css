@@ -1,3 +1,8 @@
-*{
-    font-family: monospace;
+@font-face {
+    font-family: OpenSauceSans;
+    src: url('/fonts/OpenSauceSans-Light.ttf');
+}
+
+html {
+    font-family: OpenSauceSans;
 }
