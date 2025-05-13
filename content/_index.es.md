@@ -15,9 +15,10 @@ title = ''
 
         → Contacto
 
-{{< alert "scale-balanced" >}}
-Donaciones [aquí](#)
+{{< alert icon="scale-balanced" cardColor="#ffab00" iconColor="#1d3557" textColor="#1d3557" >}}
+Donaciones o me corto los c...
 {{< /alert >}}
+
 
 Seguimos escribiendo cosas y más cosas con el fin de probar las notas al pie [^1]
 [^1]: Nota de prueba
