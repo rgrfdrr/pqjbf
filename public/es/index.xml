@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pablo</title>
+    <title>Paulus: on Pablo</title>
     <link>http://localhost:1313/es/</link>
-    <description>Recent content on Pablo</description>
+    <description>Recent content in Paulus: on Pablo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>© Pablo | [cookies](#)</copyright>
     <lastBuildDate>Mon, 14 Apr 2025 13:26:15 +0200</lastBuildDate><atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Maestro Simón</title>
+      <link>http://localhost:1313/es/simon/</link>
+      <pubDate>Tue, 13 May 2025 12:34:14 +0200</pubDate>
+      
+      <guid>http://localhost:1313/es/simon/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Mapas de ruido, urbanismo y transparencia</title>
       <link>http://localhost:1313/es/art/ruido/</link>
@@ -15,7 +25,7 @@
       
       <guid>http://localhost:1313/es/art/ruido/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/art/ruido/featured.png" />
     </item>
     
   </channel>

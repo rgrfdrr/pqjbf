@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>[][]  [][][] ||||  ||||||prueb piano on Pablo</title>
+    <title>Paulus: on Pablo</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in [][]  [][][] ||||  ||||||prueb piano on Pablo</description>
+    <description>Recent content in Paulus: on Pablo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Pablo | [cookies](#)</copyright>
@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/art/ruido/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/art/ruido/featured.png" />
     </item>
     
   </channel>
