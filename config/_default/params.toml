@@ -9,7 +9,7 @@ colorScheme = "olympic"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 
 replyByEmail = false
@@ -53,10 +53,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  showDate = true
+  showDate = false
   showViews = false
   showLikes = false
-  showDateOnlyInArticle = false
+  showDateOnlyInArticle = true
   showDateUpdated = false
   showAuthor = false
   # showAuthorBottom = false
